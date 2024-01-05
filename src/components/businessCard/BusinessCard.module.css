@@ -1,0 +1,29 @@
+.container {
+    margin: 100px;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  label {
+    margin-bottom: 4px;
+  }
+  
+  input, button {
+    padding: 8px;
+  }
+  
+  .button {
+    background: #a2daa4;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    
+  }
+  

@@ -1,0 +1,50 @@
+{
+  "registration": {
+    "title": "Оберіть мову",
+    "username": "Ім'я користувача",
+    "email": "Електронна пошта",
+    "password": "Пароль",
+    "submit": "Відправити"
+  },
+  "header": {
+    "personalProfile": "Особистий профіль",
+    "businessCard": "Візитка",
+    "resume": "Резюме",
+    "contacts": "Контакти"
+  },
+  "user": {
+    "firstName": "Ім'я",
+    "lastName": "Прізвище",
+    "birthday": "День народження",
+    "image": "Додати фото",
+    "address": {
+      "city": "Місто",
+      "street": "Вулиця",
+      "zipCode": "Поштовий індекс"
+    },
+    "specialty": "Спеціальність",
+    "company": "Компанія",
+    "website": "Веб-сайт",
+    "phone": "Телефон",
+    "email": "Електронна пошта",
+    "languages": "Мови",
+    "hobbies": "Хобі",
+    "maritalStatus": "Сімейний стан",
+    "education": {
+      "degree": "Ступінь",
+      "school": "Школа",
+      "vocationalTraining": "Професійне навчання"
+    },
+    "socialMedia": {
+      "linkedin": "LinkedIn",
+      "twitter": "Твіттер",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "whatsapp": "WhatsApp",
+      "telegram": "Telegram"
+    }
+  },
+  "button": {
+    "submit" : "Відправити"
+  } 
+}

@@ -1,0 +1,50 @@
+{
+  "registration": {
+    "title": "Выберите язык",
+    "username": "Имя пользователя",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "submit": "Отправить"
+  },
+  "header": {
+    "personalProfile": "Личная анкета",
+    "businessCard": "Визитка",
+    "resume": "Резюме",
+    "contacts": "Контакты"
+  },
+  "user": {
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "birthday": "Дата рождения",
+    "image": "Добавить фото",
+    "address": {
+      "city": "Город",
+      "street": "Улица",
+      "zipCode": "Почтовый индекс"
+    },
+    "specialty": "Специальность",
+    "company": "Компания",
+    "website": "Веб-сайт",
+    "phone": "Телефон",
+    "email": "Электронная почта",
+    "languages": "Языки",
+    "hobbies": "Хобби",
+    "maritalStatus": "Семейное положение",
+    "education": {
+      "degree": "Степень",
+      "school": "Школа",
+      "vocationalTraining": "Профессиональное обучение"
+    },
+    "socialMedia": {
+      "linkedin": "LinkedIn",
+      "twitter": "Твиттер",
+      "facebook": "Фейсбук",
+      "instagram": "Instagram",
+      "whatsapp": "WhatsApp",
+      "telegram": "Telegram"
+    }
+    } ,
+    "button": {
+      "submit" : "Отправить"
+  }
+}

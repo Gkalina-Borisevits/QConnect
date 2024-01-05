@@ -1,0 +1,50 @@
+{
+  "registration": {
+    "title": "Wählen Sie Ihre Sprache",
+    "username": "Benutzername",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "submit": "Absenden"
+  },
+  "header": {
+    "personalProfile": "Persönliches Profil",
+    "businessCard": "Visitenkarte",
+    "resume": "Lebenslauf",
+    "contacts": "Kontakte"
+  },
+  "user": {
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "birthday": "Geburtsdatum",
+    "image": "Foto hinzufügen",
+    "address": {
+      "city": "Stadt",
+      "street": "Straße",
+      "zipCode": "Postleitzahl"
+    },
+    "specialty": "Beruf",
+    "company": "Firma",
+    "website": "Webseite",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "languages": "Sprachen",
+    "hobbies": "Hobbys",
+    "maritalStatus": "Familienstand",
+    "education": {
+      "degree": "Abschluss",
+      "school": "Schule",
+      "vocationalTraining": "Berufsausbildung"
+    },
+    "socialMedia": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "whatsapp": "WhatsApp",
+      "telegram": "Telegram"
+    }
+  },
+  "button": {
+    "submit" : "Senden"
+  }
+}

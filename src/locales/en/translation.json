@@ -1,0 +1,50 @@
+{
+  "registration": {
+    "title": "Select your language: ",
+    "username": "Username",
+    "email": "E-Mail",
+    "password": "Password",
+    "submit": "Submit"
+  },
+  "header": {
+    "personalProfile": "Personal Profile",
+  "businessCard": "Business Card",
+  "resume": "Resume",
+  "contacts": "Contacts"
+  },
+  "user": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "birthday": "Birthday",
+    "image": "Add photo",
+    "address": {
+      "city": "City",
+      "street": "Street",
+      "zipCode": "Zip Code"
+    },
+    "specialty": "Specialty",
+    "company": "Company",
+    "website": "Website",
+    "phone": "Phone",
+    "email": "E-Mail",
+    "languages": "Languages",
+    "hobbies": "Hobbies",
+    "maritalStatus": "Marital Status",
+    "education": {
+      "degree": "Degree",
+      "school": "School",
+      "vocationalTraining": "Vocational Training"
+    },
+    "socialMedia": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "whatsapp": "WhatsApp",
+      "telegram": "Telegram"
+    }
+  },
+  "button": {
+    "submit" : "Submit"
+  }
+}
