@@ -1,4 +1,3 @@
-import logo from "./logo.svg"
 import { Navigate, Route, Routes } from "react-router-dom"
 import Layout from "./layouts/Layout"
 import Error from "./components/error/Error"
