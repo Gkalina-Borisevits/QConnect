@@ -9,6 +9,7 @@
   "header": {
     "personalProfile": "Persönliches Profil",
     "businessCard": "Visitenkarte",
+    "resumeCard": "Lebenslauf",
     "resume": "Lebenslauf",
     "contacts": "Kontakte"
   },
@@ -18,19 +19,24 @@
     "birthday": "Geburtsdatum",
     "image": "Foto hinzufügen",
     "address": {
+      "country": "Land",
       "city": "Stadt",
       "street": "Straße",
       "zipCode": "Postleitzahl"
     },
+    "skills" : "Fähigkeiten",
+    "professionalObjective" : "Berufsziel",
     "specialty": "Beruf",
     "company": "Firma",
     "website": "Webseite",
     "phone": "Telefon",
     "email": "E-Mail",
+    "workExperience" : "Berufserfahrung",
     "languages": "Sprachen",
     "hobbies": "Hobbys",
     "maritalStatus": "Familienstand",
     "education": {
+      "education" : "Bildung",
       "degree": "Abschluss",
       "school": "Schule",
       "vocationalTraining": "Berufsausbildung"
@@ -45,6 +51,7 @@
     }
   },
   "button": {
-    "submit" : "Senden"
+    "submit" : "Senden",
+    "addFoto" : "Foto hinzufügen"
   }
 }

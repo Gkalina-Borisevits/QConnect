@@ -9,7 +9,7 @@
   "header": {
     "personalProfile": "Личная анкета",
     "businessCard": "Визитка",
-    "resume": "Резюме",
+    "resumeCard": "Резюме",
     "contacts": "Контакты"
   },
   "user": {
@@ -18,19 +18,24 @@
     "birthday": "Дата рождения",
     "image": "Добавить фото",
     "address": {
+      "country": "Страна",
       "city": "Город",
       "street": "Улица",
       "zipCode": "Почтовый индекс"
     },
+    "skills" : "Навыки",
+    "professionalObjective" : "Профессиональная цель",
     "specialty": "Специальность",
     "company": "Компания",
     "website": "Веб-сайт",
     "phone": "Телефон",
     "email": "Электронная почта",
+    "workExperience" : "Опыт работы",
     "languages": "Языки",
     "hobbies": "Хобби",
     "maritalStatus": "Семейное положение",
     "education": {
+      "education" : "Образование",
       "degree": "Степень",
       "school": "Школа",
       "vocationalTraining": "Профессиональное обучение"
@@ -45,6 +50,7 @@
     }
     } ,
     "button": {
-      "submit" : "Отправить"
+      "submit" : "Отправить",
+      "addFoto" : "Добавить фото"
   }
 }

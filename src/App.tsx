@@ -9,6 +9,7 @@ import PersonalInfo from "./components/personalInfo/PersonalInfo"
 import { useEffect } from "react"
 import LanguageSelector from "./components/selectLanguage/LanguageSelector"
 import BusinessCard from "./components/businessCard/BusinessCard"
+import ResumeCard from "./components/resumeCard/ResumeCard"
 
 const App: React.FC = () => {
   const { t, i18n } = useTranslation();
@@ -32,6 +33,7 @@ const App: React.FC = () => {
         <Route path="/registration" element={<RegistrationForm />} />
         <Route path="personalInfo" element={<PersonalInfo/>} />
         <Route path="businessCard" element={<BusinessCard/>} />
+        <Route path="resumeCard" element={<ResumeCard/>} />
        
         <Route path="*" element={<Error />} />
         </Route>

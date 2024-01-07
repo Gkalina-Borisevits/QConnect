@@ -9,6 +9,7 @@
   "header": {
     "personalProfile": "Personal Profile",
   "businessCard": "Business Card",
+  "resumeCard": "Resume Card",
   "resume": "Resume",
   "contacts": "Contacts"
   },
@@ -18,19 +19,24 @@
     "birthday": "Birthday",
     "image": "Add photo",
     "address": {
+      "country": "Country",
       "city": "City",
       "street": "Street",
       "zipCode": "Zip Code"
     },
+    "skills" : "Skills",
+    "professionalObjective" : "Professional Objective",
     "specialty": "Specialty",
     "company": "Company",
     "website": "Website",
     "phone": "Phone",
     "email": "E-Mail",
+    "workExperience" : "Work Experience",
     "languages": "Languages",
     "hobbies": "Hobbies",
     "maritalStatus": "Marital Status",
     "education": {
+      "education" : "Education",
       "degree": "Degree",
       "school": "School",
       "vocationalTraining": "Vocational Training"
@@ -45,6 +51,7 @@
     }
   },
   "button": {
-    "submit" : "Submit"
+    "submit" : "Submit",
+    "addFoto" : "Add photo"
   }
 }

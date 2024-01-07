@@ -9,7 +9,7 @@
   "header": {
     "personalProfile": "Особистий профіль",
     "businessCard": "Візитка",
-    "resume": "Резюме",
+    "resumeCard": "Резюме",
     "contacts": "Контакти"
   },
   "user": {
@@ -18,19 +18,24 @@
     "birthday": "День народження",
     "image": "Додати фото",
     "address": {
+      "country": "Країна",
       "city": "Місто",
       "street": "Вулиця",
       "zipCode": "Поштовий індекс"
     },
+    "skills" : "Навички",
+    "professionalObjective" : "Професійна мета",
     "specialty": "Спеціальність",
     "company": "Компанія",
     "website": "Веб-сайт",
     "phone": "Телефон",
     "email": "Електронна пошта",
+    "workExperience" : "Досвід роботи",
     "languages": "Мови",
     "hobbies": "Хобі",
     "maritalStatus": "Сімейний стан",
     "education": {
+      "education" : "Освіта",
       "degree": "Ступінь",
       "school": "Школа",
       "vocationalTraining": "Професійне навчання"
@@ -45,6 +50,7 @@
     }
   },
   "button": {
-    "submit" : "Відправити"
+    "submit" : "Відправити",
+    "addFoto" : "Додати фото"
   } 
 }

@@ -23,6 +23,7 @@ const Header: FC = () => {
       <NavLink to="/">{t("home")}</NavLink>
       <NavLink to="personalInfo">{t("header.personalProfile")}</NavLink>
       <NavLink to="businessCard">{t("header.businessCard")}</NavLink>
+      <NavLink to="resumeCard">{t("header.resumeCard")}</NavLink>
       <NavLink to="contacts">{t("header.contacts")}</NavLink>
       <button onClick={() => changeLanguage("en")}>EN</button>
       <button onClick={() => changeLanguage("ru")}>RU</button>

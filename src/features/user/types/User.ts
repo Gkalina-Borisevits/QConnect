@@ -5,7 +5,7 @@ export default interface User {
   firstName?: string;
   lastName?: string;
   gender?: string;
-  images?: string[]; 
+  photos: string[]; 
   token: string;
   birthday?: string;
   address?: {

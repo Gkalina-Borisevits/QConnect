@@ -2,15 +2,16 @@ import { configureStore, ThunkAction, Action } from "@reduxjs/toolkit"
 import counterReducer from "../features/counter/counterSlice"
 import languageSlice from "../store/languageSlice"
 import registrationSlice from "../store/registrationSlice"
-import authSlice from "../store/authSlice"
-
+import userSlice from "../store/credentialSlice"
+import credentialSlice from "../store/credentialSlice"
 
 export const store = configureStore({
   reducer: {
     counter: counterReducer,
     language: languageSlice,
     registration: registrationSlice,
-    user: authSlice,
+    user: userSlice,
+    credentials: credentialSlice,
   },
 })
 

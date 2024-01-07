@@ -21,16 +21,16 @@ const languageSlice = createSlice({
   initialState,
   reducers: {
     setLanguage: (state, action: PayloadAction<string>) => {
-      state.selectedLanguage = action.payload
+      state.initialState.selectedLanguage = action.payload
     },
     setPlaceholderText: (state, action) => {
-      state.placeholderText = action.payload
+      state.initialState.placeholderText = action.payload
     },
   },
 })
 
 export const { setLanguage, setPlaceholderText } = languageSlice.actions
-export const selectLanguage = (state) => state.language.selectedLanguage
-export const selectPlaceholderText = (state) => state.language.placeholderText
+export const selectLanguage = (state: { language: { selectedLanguage: any } }) => state.language.selectedLanguage
+export const selectPlaceholderText = (state: { language: { placeholderText: any } }) => state.language.placeholderText
 
 export default languageSlice.reducer

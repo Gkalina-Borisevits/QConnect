@@ -15,9 +15,12 @@ import translationRu from './locales/ru/translation.json';;
 // @ts-ignore
 import translationUk from './locales/uk/translation.json';;
 import i18next from "i18next"
-import { I18nextProvider } from "react-i18next"
+import { I18nextProvider, initReactI18next } from "react-i18next"
 
-i18next.init({
+// window.alert("Подтвердите действие на странице")
+i18next
+.use(initReactI18next)
+.init({
   interpolation: {escapeValue: false},
   lng: "en",
   resources: {
