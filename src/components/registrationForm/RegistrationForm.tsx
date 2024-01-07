@@ -5,7 +5,7 @@ import LanguageSelector from "../selectLanguage/LanguageSelector"
 import { Link } from "react-router-dom"
 import styles from "./RegistrationForm.css"
 import RegistrationFormState from "./RegistrationFormState"
-import { loginUser } from "../../store/userSlice"
+
 
 const RegistrationForm: React.FC = () => {
   const [formState, setFormState] = useState<RegistrationFormState>({
